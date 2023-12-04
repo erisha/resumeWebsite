@@ -1,0 +1,53 @@
+body{
+    background-color:black;
+    color: mintcream;
+    height: 100%;
+    width: 100%;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+    /* border-color: cadetblue;
+    border-style: inset;
+    border-width: 5px; */
+    
+}
+
+
+.main_container {
+    /* display: flex;
+    align-content: center;
+    justify-content: center; */
+    border: 5px cadetblue inset;
+     
+} 
+
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.box1 {
+   
+    border: 3px cadetblue solid ;
+    padding: 20px;
+
+    
+}
+
+.box2 {
+    
+    padding: 20px
+    
+}
+
+.box3 {
+    padding: 20px;
+}
+
+.section2 {
+    
+}
